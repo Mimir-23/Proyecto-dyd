@@ -1,0 +1,41 @@
+body{
+    margin: 0PX;
+}
+
+
+
+header {
+    background-color: #1D262A; 
+    color: #f4f4f4; 
+    padding: 0px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+}
+
+
+footer{
+
+    background-color: #041D3E;
+    padding: 3rem;
+    color: #fff;
+}
+
+footer section{
+
+    float: right;
+}
+
+footer p{
+    margin: 0;
+}
+
+footer a{
+    transition: color 0.3s ease;
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover{
+
+    color: #1D262A;
+}
